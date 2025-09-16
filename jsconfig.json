@@ -1,0 +1,9 @@
+// {
+//   "compilerOptions": {
+//     "module": "esnext",
+//     "target": "es2020",
+//     "checkJs": true,
+//     "baseUrl": "."
+//   },
+//   "include": ["./**/*"]
+// }
